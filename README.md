@@ -15,7 +15,7 @@ El juego termina cuando no hay mas movimientos posibles.
   <img width="50%" height="50%" src="data_readme/ju.gif">
 </p>
 
-# Pre-requisitos 📋
+## Pre-requisitos 📋
 
 _Que cosas necesitas para instalar el software y como instalarlas_
 
@@ -26,11 +26,11 @@ Dev-C++
 Simple and Fast Multimedia Library (SFML)
 ```
 
-# Autores ✒️
+## Autores ✒️
 
 * **Kemely Castillo**  - [kemely2018](https://github.com/kemely2018)
 
-# Contribuciones
+## Contribuciones
 * FUENTES - [Dafont](https://www.dafont.com/es/)
 * AUDIO - [Zapsplat](https://www.zapsplat.com/)
 * Libreria - [SFML](https://www.sfml-dev.org/)

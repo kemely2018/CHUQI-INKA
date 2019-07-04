@@ -42,6 +42,6 @@ Simple and Fast Multimedia Library (SFML)
 
 ---
 <p align="center">
-  <img width="50%" height="50%" src="imagenes/gems.png">
+  <img width="50%" height="50%" src="imagenes/gem.png">
 </p>
 

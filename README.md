@@ -30,10 +30,12 @@ Simple and Fast Multimedia Library (SFML)
 
 * **Kemely Castillo**  - [kemely2018](https://github.com/kemely2018)
 
-¿
-## Expresiones de Gratitud 🎁
-
-* Comenta a otros sobre este proyecto 📢
+# Contribuciones
+* FUENTES - [Dafont](https://www.dafont.com/es/)
+* AUDIO - [Zapsplat](https://www.zapsplat.com/)
+* Libreria - [SFML](https://www.sfml-dev.org/)
+* TUTORIALES SFML(muy agradecida) - [Escuela de Juegos](https://www.youtube.com/watch?v=k89cqx0w3Cc&list=PL-EPeghw5sXg3t0egTspfHdUYMDqyOLwf) buscalo su canal esta super genial.
+* C++(Vector/Algorithm) - [Cplusplus](http://www.cplusplus.com/)
 * Invita una cerveza 🍺 a alguien del equipo. 
 * Da las gracias públicamente 🤓.
 * etc.

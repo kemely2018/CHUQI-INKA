@@ -39,3 +39,6 @@ Simple and Fast Multimedia Library (SFML)
 * TEXTURAS Y SPRITES  [YO](https://github.com/kemely2018) gracias Photoshop.
 * LA IDEA - [FamTrinli](https://www.youtube.com/user/FamTrinli/) date una pasada hay muchos mas juegos.
 * README PLANTILLA - [Villanuevand](https://gist.github.com/Villanuevand)
+
+---
+

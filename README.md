@@ -14,3 +14,14 @@ El juego termina cuando no hay mas movimientos posibles.
 <p align="center">
   <img width="50%" height="50%" src="data_readme/ju.gif">
 </p>
+
+# Pre-requisitos 📋
+
+_Que cosas necesitas para instalar el software y como instalarlas_
+
+```
+Dev-C++
+```
+```
+Simple and Fast Multimedia Library (SFML)
+```

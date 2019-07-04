@@ -41,4 +41,7 @@ Simple and Fast Multimedia Library (SFML)
 * README PLANTILLA - [Villanuevand](https://gist.github.com/Villanuevand)
 
 ---
+<p align="center">
+  <img width="50%" height="50%" src="imagenes/gems.png">
+</p>
 

@@ -20,7 +20,7 @@ El juego termina cuando no hay mas movimientos posibles.
 _Que cosas necesitas para instalar el software y como instalarlas_
 
 ```
-Dev-C++
+Dev-C++ [C++](https://www.bloodshed.net/dev/)
 ```
 ```
 Simple and Fast Multimedia Library (SFML)

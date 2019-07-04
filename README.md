@@ -25,3 +25,15 @@ Dev-C++
 ```
 Simple and Fast Multimedia Library (SFML)
 ```
+
+# Autores ✒️
+
+* **Kemely Castillo**  - [kemely2018](https://github.com/kemely2018)
+
+¿
+## Expresiones de Gratitud 🎁
+
+* Comenta a otros sobre este proyecto 📢
+* Invita una cerveza 🍺 a alguien del equipo. 
+* Da las gracias públicamente 🤓.
+* etc.

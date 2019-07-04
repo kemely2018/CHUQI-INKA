@@ -2,6 +2,8 @@
   <img width="50%" height="50%" src="imagenes/gem.png">
 </p>
 ---
+
+
 # CHUQI-INKA
 _PROYECTO FINAL CC2 / Bejeweled Game Clone_<br/>
 _Juego de combinar 3 o más gemas en una fila o columna. Este proyecto fue creado para practicar los temas realizados en el curso de Ciencias de la Computacion 2 (programacion orientada a objetos ) en C++ aprendiendo a utilizar una libreria grafica ,en este caso SMFL._

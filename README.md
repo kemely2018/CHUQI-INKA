@@ -3,7 +3,7 @@ _PROYECTO FINAL CC2 / Bejeweled Game Clone_<br/>
 _Juego de combinar 3 o más gemas en una fila o columna. Este proyecto fue creado para practicar los temas realizados en el curso de Ciencias de la Computacion 2 (programacion orientada a objetos ) en C++ aprendiendo a utilizar una libreria grafica ,en este caso SMFL._
 
 <p align="center">
-  <img width="600" height="400" src="data_readme/portada.jpg">
+  <img width="400" height="200" src="data_readme/portada.jpg">
 </p>
 
 

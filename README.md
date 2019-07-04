@@ -36,6 +36,5 @@ Simple and Fast Multimedia Library (SFML)
 * Libreria - [SFML](https://www.sfml-dev.org/)
 * TUTORIALES SFML(muy agradecida) - [Escuela de Juegos](https://www.youtube.com/watch?v=k89cqx0w3Cc&list=PL-EPeghw5sXg3t0egTspfHdUYMDqyOLwf) buscalo su canal esta super genial.
 * C++(Vector/Algorithm) - [Cplusplus](http://www.cplusplus.com/)
-* Invita una cerveza 🍺 a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* etc.
+* TEXTURAS Y SPRITES  [YO](https://github.com/kemely2018) gracias Photoshop.
+* LA IDEA - [FamTrinli](https://www.youtube.com/user/FamTrinli/) date una pasada hay muchos mas juegos.

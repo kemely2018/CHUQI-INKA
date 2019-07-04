@@ -1,8 +1,8 @@
 <p align="center">
   <img width="50%" height="50%" src="imagenes/gem.png">
 </p>
----
 
+---
 
 # CHUQI-INKA
 _PROYECTO FINAL CC2 / Bejeweled Game Clone_<br/>
